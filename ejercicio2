@@ -1,0 +1,5 @@
+anio_nacimiento = int(input("Ingresa tu año de nacimiento: "))
+
+edad = 2030 - anio_nacimiento
+
+print("En el año 2030 cumplirás", edad, "años.")
